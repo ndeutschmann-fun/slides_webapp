@@ -10,6 +10,8 @@ The module is a python executable:
 ```bash
 python -m slides
 ```
+You can then run the app by opening `localhost:5000` in your browser.
+
 The only dependency is `Flask`
 
 ## Screenshots
