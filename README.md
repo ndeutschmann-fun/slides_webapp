@@ -10,9 +10,12 @@ The module is a python executable:
 ```bash
 python -m slides
 ```
+The only dependency is `Flask`
 
-![Editor page](/static/editor.png?raw=true "Editor page")
+## Screenshots
 
-![First Slide](/static/slide-1.png?raw=true "First slide")
-![Second Slide](/static/slide-2.png?raw=true "Second slide")
-## 
+<img src="static/editor.png?raw=true" width="25%" style="margin: 1%;"><img src="static/slide-1.png?raw=true" width=25% style="margin: 1%;"> <img src="static/slide-2.png?raw=true" width=25% style="margin: 1%;">
+
+## Licence
+
+This is published under the [MIT licence](LICENSE), feel free to use it.
