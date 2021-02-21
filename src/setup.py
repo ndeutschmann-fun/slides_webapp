@@ -18,4 +18,5 @@ setuptools.setup(
     ],
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
+    include_package_data=True
 )
